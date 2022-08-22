@@ -1,0 +1,4 @@
+{
+  "item-rocksniffer-*": "Rock Sniffer",
+  "itemdesc-rocksniffer-*": "Use on stone to get a report of the rock-types directly below that block. Ignores and does not report ores."
+}
