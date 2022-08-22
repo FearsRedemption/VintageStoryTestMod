@@ -40,7 +40,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="VintagestoryAPI">
-      <HintPath>..\..\Vintagestory\VintagestoryAPI.dll</HintPath>
+      <HintPath>..\..\..\Vintagestory\VintagestoryAPI.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
