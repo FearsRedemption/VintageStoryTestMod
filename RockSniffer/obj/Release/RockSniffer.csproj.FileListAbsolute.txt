@@ -1,0 +1,6 @@
+E:\GitHub\RockSniffer\bin\Release\RockSniffer.dll
+E:\GitHub\RockSniffer\bin\Release\RockSniffer.pdb
+E:\GitHub\RockSniffer\obj\Release\RockSniffer.csproj.AssemblyReference.cache
+E:\GitHub\RockSniffer\obj\Release\RockSniffer.csproj.CoreCompileInputs.cache
+E:\GitHub\RockSniffer\obj\Release\RockSniffer.dll
+E:\GitHub\RockSniffer\obj\Release\RockSniffer.pdb
