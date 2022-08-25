@@ -1,11 +1,11 @@
 {
   "type": "code",
-  "modid": "WheelsAndFearsTestMod",
-  "name": "Wheels and Fears Test Mod",
+  "modid": "ArmorModifierMod",
+  "name": "Better Armors",
   "authors": [ "FearsRedemption", "Wheels4431", "Verify" ],
   "description": "This is just a test mod to see what we can do...",
   "website": "https://github.com/FearsRedemption/VintageStoryTestMod",
   "side": "Universal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependency": {}
 }

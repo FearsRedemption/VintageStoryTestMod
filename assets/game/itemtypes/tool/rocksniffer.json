@@ -14,9 +14,7 @@
 		slotRefillIdentifier: "rocksniffer"
 	},
 	variantgroups: [
-		{ code: "metal", states: ["copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", 
-															"iron", "meteoriciron", "steel"
-		  ] },
+		{ code: "metal", states: ["copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel" ] },
 	],
 	tool: "pickaxe",
 	damagedby: ["blockbreaking", "attacking"],

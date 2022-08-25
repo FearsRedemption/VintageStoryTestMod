@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/durabilityByType/armor-*-brigandine-tinbronze",
+    "value": 1250,
+    "file": "itemtypes/wearable/armor.json"
+  }
+]
