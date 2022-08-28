@@ -1,11 +1,11 @@
 {
   "type": "code",
-  "modid": "ArmorModifierMod",
-  "name": "Better Armors",
+  "modid": "PositiveLife",
+  "name": "Positive Life Mod",
   "authors": [ "FearsRedemption", "Wheels4431", "Verify" ],
-  "description": "This is just a test mod to see what we can do...",
+  "description": "This gives a more positive effect on your character without the negative effects to classes and armors",
   "website": "https://github.com/FearsRedemption/VintageStoryTestMod",
   "side": "Universal",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "dependency": {}
 }

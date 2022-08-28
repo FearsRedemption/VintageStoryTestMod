@@ -1,4 +1,28 @@
 {
+  "//Item_Section": "This is where the Items are",
   "item-rocksniffer-*": "Rock Sniffer",
-  "itemdesc-rocksniffer-*": "Use on stone to get a report of the rock-types directly below that block. Ignores and does not report ores."
+  "itemdesc-rocksniffer-*": "Use on stone to get a report of the rock-types directly below that block. Ignores and does not report ores.",
+
+  "//Trait_Section": "This is where Traits are",
+  "trait-militia": "<font color=\"#84ff84\">• Militia</font>",
+
+  "//Character_Attribute_Section": "This is where Character Attributes are",
+  "charattribute-rangedWeaponsDamage-0.3": "+30% ranged damage",
+  "charattribute-rangedWeaponsAcc-0.35": "+35% ranged accuracy",
+  "charattribute-animalLootDropRate-0.15": "+15% animal loot",
+  "charattribute-animalHarvestingTime--0.3": "animal harvesting speed",
+  "charattribute-walkspeed-0.15": "+15% walk speed",
+  "charattribute-forageDropRate-0.1": "+10% foraging drop rate",
+  "charattribute-vesselContentsDropRate-0.2": "+20% loot from cracked vessels",
+  "charattribute-wholeVesselLootChance-0.15": "+15% chance to collect cracked vessel",
+  "charattribute-animalSeekingRange--0.4": "-40% animal seeking range",
+  "charattribute-mechanicalsDamage-0.35": "+35% damage against mechanicals",
+  "charattribute-meleeWeaponsDamage-0.35": "+35% melee damage",
+  "charattribute-armorDurabilityLoss--0.2": "-20% armor durability loss",
+  "charattribute-armorWalkSpeedAffectedness--0.3": "+30% armored walking speed",
+  "charattribute-miningSpeedMul-0.2": "+20% mining speed",
+  "charattribute-maxhealthExtraPoints-7": "7 extra health",
+  "charattribute-meleeWeaponsDamage-0.2": "+20% melee damage",
+  "charattribute-miningSpeedMul-0.05": "+5% mining speed",
+  "charattribute-walkspeed-0.05": "+5% walk speed"
 }

@@ -1,0 +1,41 @@
+[
+    {
+        "op" : "add",
+        "path" : "/25",
+        "value" : {
+            "code" : "militia",
+            "type" : "positive",
+            "attributes" :{
+            "meleeWeaponsDamage": 0.2 ,
+			"walkspeed": 0.05 ,
+			"miningSpeedMul": 0.05 ,
+			"forageDropRate": 0.1
+            }
+        },
+        "file" : "config/traits.json"
+    },
+    {
+        "op" : "add",
+        "value" : "militia",
+        "file" : "config/characterclasses.json",
+        "path" : "/0/traits/0"
+    },
+    {
+        "op" : "add",
+        "value" : "pilferer",
+        "file" : "config/characterclasses.json",
+        "path" : "/0/traits/1"
+    },
+    {
+        "op" : "add",
+        "value" : "clothier",
+        "file" : "config/characterclasses.json",
+        "path" : "/0/traits/2"
+    },
+    {
+        "op" : "add",
+        "value" : "mender",
+        "file" : "config/characterclasses.json",
+        "path" : "/0/traits/3"
+    }
+]

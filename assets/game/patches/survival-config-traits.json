@@ -1,0 +1,112 @@
+[
+  {
+    "//focused": "modded trait 0",
+    "op" : "replace",
+    "file" : "config/traits.json",
+    "path" : "/0/attributes",
+    "value" : {
+      "rangedWeaponsDamage": 0.3,
+      "rangedWeaponsAcc": 0.35
+    }
+  },
+  {
+    "//resourceful": "modded trait 1",
+    "op" : "replace",
+    "file" : "config/traits.json",
+    "path" : "/1/attributes",
+    "value" : {
+      "animalLootDropRate": 0.15,
+      "animalHarvestingTime": -0.3
+    }
+  },
+  {
+    "//fleetfooted": "modded trait 2",
+    "op" : "replace",
+    "file" : "config/traits.json",
+    "path" : "/2/attributes",
+    "value" : {
+      "walkspeed": 0.15
+    }
+  },
+  {
+    "//boyer": "un-modded trait 3"
+  },
+  {
+    "//forager": "modded trait 4",
+    "op" : "replace",
+    "file" : "config/traits.json",
+    "path" : "/4/attributes",
+    "value" : {
+      "forageDropRate": 0.1,
+      "wildCropDropRate": 0.2
+    }
+  },
+  {
+    "//pilferer": "modded trait 5",
+    "op" : "replace",
+    "file" : "config/traits.json",
+    "path" : "/5/attributes",
+    "value" : {
+      "vesselContentsDropRate": 0.2,
+      "rustyGearDropRate": 0.1,
+      "wholeVesselLootChance": 0.15
+    }
+  },
+  {
+    "//furtive": "modded trait 6",
+    "op": "replace",
+    "file": "config/traits.json",
+    "path": "/6/attributes",
+    "value": {
+      "animalSeekingRange": -0.4
+    }
+  },
+  {
+    "//precise": "modded trait 7",
+    "op": "replace",
+    "file": "config/traits.json",
+    "path": "/6/attributes",
+    "value": {
+      "mechanicalsDamage": 0.35
+    }
+  },
+  {
+    "//technical": "un-modded trait 8"
+  },
+  {
+    "//soldier": "modded trait 9",
+    "op" : "replace",
+    "file" : "config/traits.json",
+    "path" : "/9/attributes",
+    "value" : {
+      "meleeWeaponsDamage": 0.35,
+      "armorDurabilityLoss": -0.2,
+      "armorWalkSpeedAffectedness": -0.3
+    }
+  },
+  {
+    "//hardy": "modded trait 10",
+    "op" : "replace",
+    "file" : "config/traits.json",
+    "path" : "/10/attributes",
+    "value" : {
+      "miningSpeedMul": 0.2,
+      "maxhealthExtraPoints": 7
+    }
+  },
+  {
+    "//clothier": "un-modded trait 11"
+  },
+  {
+    "//mender": "modded trait 12",
+    "op" : "replace",
+    "file" : "config/traits.json",
+    "path" : "/12/attributes",
+    "value" : {
+      "armorDurabilityLoss": -0.2
+    }
+  },
+  {
+    "//merciless": "un-modded trait 13"
+  }
+]

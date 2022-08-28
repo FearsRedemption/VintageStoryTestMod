@@ -1,0 +1,70 @@
+[
+  {
+    "//commoner": "no traits to remove - 0"
+  },
+  {
+    "//hunter": "remove negatives 1",
+    "op": "remove",
+    "file": "config/characterclasses.json",
+    "path": "/1/traits/4"
+  },
+  {
+    "op": "remove",
+    "file": "config/characterclasses.json",
+    "path": "/1/traits/4"
+  },
+  {
+    "//malefactor": "remove negatives 2",
+    "op": "remove",
+    "file": "config/characterclasses.json",
+    "path": "/2/traits/4"
+  },
+  {
+    "op": "remove",
+    "file": "config/characterclasses.json",
+    "path": "/2/traits/4"
+  },
+  {
+    "//clockmaker": "remove negatives 3",
+    "op": "remove",
+    "file": "config/characterclasses.json",
+    "path": "/3/traits/3"
+  },
+  {
+    "op": "remove",
+    "file": "config/characterclasses.json",
+    "path": "/3/traits/3"
+  },
+  {
+    "//blackguard": "remove negatives 4",
+    "op" : "remove",
+    "file" : "config/characterclasses.json",
+    "path" : "/4/traits/3"
+  },
+  {
+    "op" : "remove",
+    "file" : "config/characterclasses.json",
+    "path" : "/4/traits/3"
+  },
+  {
+    "op" : "remove",
+    "file" : "config/characterclasses.json",
+    "path" : "/4/traits/3"
+  },
+  {
+    "//tailor": "remove negatives 5",
+    "op": "remove",
+    "file": "config/characterclasses.json",
+    "path": "/5/traits/2"
+  },
+  {
+    "op": "remove",
+    "file": "config/characterclasses.json",
+    "path": "/5/traits/2"
+  },
+  {
+    "op": "remove",
+    "file": "config/characterclasses.json",
+    "path": "/5/traits/2"
+  }
+]
