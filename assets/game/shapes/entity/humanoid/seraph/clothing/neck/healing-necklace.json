@@ -10,7 +10,7 @@
 		"noble-necklace": [16, 16]
 	},
 	"textures": {
-		"noble-necklace": "entity/humanoid/seraphclothes/neck/pendants2"
+		"noble-necklace": "game:entity/humanoid/seraphclothes/neck/pendants2"
 	},
 	"elements": [
 		{

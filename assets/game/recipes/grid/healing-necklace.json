@@ -1,0 +1,30 @@
+[
+	{
+		"op": "add",
+		"path": "/9",
+		"value": {
+			"ingredientPattern": "LLL,L_L,TDT",
+			"ingredients": {
+				"L": {
+					"type": "item",
+					"code": "game:leather-plain"
+				},
+				"T": {
+					"type": "item",
+					"code": "game:gear-temporal"
+				},
+				"D": {
+					"type": "item",
+					"code": "game:gem-diamond-rough"
+				}
+			},
+			"width": 3,
+			"height": 3,
+			"output": {
+				"type": "item",
+				"code": "clothes-neck-healing-necklace"
+			}
+		},
+		"file": "recipes/grid/clothes/necklace.json"
+	}
+]

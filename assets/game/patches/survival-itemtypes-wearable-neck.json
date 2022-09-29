@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/variantgroups/1/states/-",
+    "value": "healing-necklace",
+    "file": "itemtypes/wearable/neck.json"
+  }
+]

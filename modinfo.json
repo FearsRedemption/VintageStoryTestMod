@@ -1,11 +1,18 @@
 {
-  "type": "code",
-  "modid": "PositiveLife",
-  "name": "Positive Life Mod",
-  "authors": [ "FearsRedemption", "Wheels4431", "Verify" ],
-  "description": "This gives a more positive effect on your character without the negative effects to classes and armors",
-  "website": "https://github.com/FearsRedemption/VintageStoryTestMod",
-  "side": "Universal",
-  "version": "0.0.4",
-  "dependency": {}
+  "Type": "content",
+  "TextureSize": 32,
+  "Name": "Positive Life Mod",
+  "Version": "0.0.6",
+  "NetworkVersion": null,
+  "Description": "This gives a more positive character and item experience by removing negative effects to classes and armors",
+  "Website": "https://github.com/FearsRedemption/VintageStoryTestMod",
+  "ModID": "PositiveLifeMod",
+  "Authors": [
+    "Tamotsu", "Verify", "Wheels4431"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {}
 }
